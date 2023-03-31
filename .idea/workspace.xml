@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab19e65f-3745-4ed8-9829-1ca852756dd8" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaAssignment03.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nj6whgnCoDw9wmaA8fXz1khOmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="应用程序.SimpleGUI">
+    <configuration name="DirectoryCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DirectoryCompare" />
+      <module name="javaAssignment03" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="javaAssignment03" />
+      <option name="PROGRAM_PARAMETERS" value="file:/$USER_HOME$/Desktop/lab3/sample1.code file:/$USER_HOME$/Desktop/lab3/sample2.code file:/$USER_HOME$/Desktop/lab3/sample3.code file:/$USER_HOME$/Desktop/lab3/sample4.code file:/$USER_HOME$/Desktop/lab3/sample5.code file:/$USER_HOME$/Desktop/lab3/sample6.code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4start" />
+      <module name="javaAssignment03" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Creeper_AhAh\Desktop\lab3\lab1-codes-fortest\Java课内实习20211001234-xxxx-实习一 C:\Users\Creeper_AhAh\Desktop\lab3\lab1-codes-fortest\Java课内实习-20211001235-xxx-实习一 C:\Users\Creeper_AhAh\Desktop\lab3\lab1-codes-fortest\Java课内实习-20211001236-xxxx-实习一 C:\Users\Creeper_AhAh\Desktop\lab3\lab1-codes-fortest\Java课内实习-20211001237-xxxx-实习1 .java y 95" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleGUI" />
+      <module name="javaAssignment03" />
+      <option name="PROGRAM_PARAMETERS" value="file:/$USER_HOME$/Desktop/lab3/sample1.code file:/$USER_HOME$/Desktop/lab3/sample2.code file:/$USER_HOME$/Desktop/lab3/sample3.code file:/$USER_HOME$/Desktop/lab3/sample4.code file:/$USER_HOME$/Desktop/lab3/sample5.code file:/$USER_HOME$/Desktop/lab3/sample6.code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.SimpleGUI" />
+        <item itemvalue="应用程序.Q4start" />
+        <item itemvalue="应用程序.DirectoryCompare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ab19e65f-3745-4ed8-9829-1ca852756dd8" name="变更" comment="" />
+      <created>1680165386060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680165386060</updated>
+      <workItem from="1680165387153" duration="23706000" />
+      <workItem from="1680229205811" duration="4433000" />
+      <workItem from="1680253837591" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
